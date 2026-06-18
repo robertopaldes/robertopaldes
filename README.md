@@ -1,4 +1,4 @@
-# Olá, sou o Professor Roberto Paldes! 
+# Olá, sou o Professor Roberto Paldes
 
 Mestre em Educação e Graduado em Análise e Desenvolvimento de Sistemas pela UCB. Atuo como Professor Universitário, Coordenador de Cursos de TI, Pesquisador e Consultor em Perícias Tecnológicas.
 
